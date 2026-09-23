@@ -1,6 +1,6 @@
 # Java-Based Learning Management System (LMS)
 
-A standalone **Learning Management System (LMS)** built with **Core Java** and **Java Swing**. This project offers a simplified, offline-friendly platform focused on student functionalities such as course enrollment, assignment submission — all without using external libraries or databases.
+A standalone **Learning Management System (LMS)** built with **Core Java** and **Java Swing**. This project offers a simplified, offline-friendly platform focused on student functionalities such as course enrollment and assignment submission, all without using external libraries or databases.
 
 ## Project Overview
 
@@ -9,10 +9,10 @@ This LMS simulates essential educational tasks found in modern online learning p
 ## System Users
 
 ### Students
-- log in
+- Log in
 - View courses
 - View and submit assignments
-- View Time table
+- View timetable
   
 > *Note: The current version focuses on student functionality only.*
 
@@ -85,4 +85,4 @@ This LMS simulates essential educational tasks found in modern online learning p
 
 ![Screenshot 2025-06-05 111237](https://github.com/user-attachments/assets/2dd83fb5-cf18-477d-b8eb-86a370e6f5bf)
 
-Done by: Marwan Mohamed (2nd year computer engineering students) for: Java Essentials & OOP Project Date: may 2025
+Done by: Marwan Mohamed (2nd year computers & information technology student) for: Java Essentials & OOP Project. Date: May 2025
